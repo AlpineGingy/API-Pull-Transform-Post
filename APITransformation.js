@@ -28,7 +28,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
             phone: phone
         }
     });
-    console.log(transformedData)
+    // console.log(transformedData)
       // Prepare the request body
   const requestBody = {
     userid: 'andruw.sorensen@gmail.com',
